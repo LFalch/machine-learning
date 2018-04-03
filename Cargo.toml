@@ -1,0 +1,9 @@
+[package]
+name = "machine-learning"
+version = "0.1.0"
+authors = ["LFalch <lucas@wasd.dk>"]
+
+[dependencies]
+nalgebra = "0.14"
+rand = "0.4"
+generic-array = "0.8"
